@@ -81,11 +81,11 @@ Other Skills: REST APIs, Authentication, Deployment (Netlify, Vercel) <br/></p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithu9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mithu9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mithu9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
+### 📈 GitHub Stats
+![Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYAMAAAAT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAMAAAAT&layout=compact&theme=radical)
+
 <br/>
 <!-- Thanks Text -->
 <h1 align="center">
