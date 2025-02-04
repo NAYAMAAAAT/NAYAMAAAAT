@@ -46,7 +46,6 @@ Other Skills: REST APIs, Authentication, Deployment (Netlify, Vercel) <br/></p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...2020<br>📚 I'm currently learning ... NextJs with TypeScript and SQL<br>🎯 Goals: ...become a senior developer within 2025<br>🎲 Fun fact: ...I am funny😹😎</p>
 
 ###
 
