@@ -41,8 +41,25 @@
 
 ###
 
-<br clear="both">
+### 🚀 About Me
+I'm a passionate web developer with a focus on building responsive and user-friendly applications. I love exploring new technologies and continuously improving my skills.
 
-<img src="https://raw.githubusercontent.com/NAYAMAAAAT/NAYAMAAAAT/output/snake.svg" alt="Snake animation" />
+### 🛠️ Technologies & Tools
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Express
+- **Databases:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VSCode
+
+### 📈 GitHub Stats
+![Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYAMAAAAT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAMAAAAT&layout=compact&theme=radical)
+
+### 🌱 I’m currently learning
+- Advanced React concepts
+- TypeScript
+- Cloud services (AWS, Azure)
+
+### 💬 Ask me about
+- Web development
 
 ###
