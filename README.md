@@ -50,9 +50,7 @@ I'm a passionate web developer with a focus on building responsive and user-frie
 - **Databases:** MongoDB, Firebase
 - **Tools:** Git, GitHub, VSCode
 
-### 📈 GitHub Stats
-![Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAYAMAAAAT&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAYAMAAAAT&layout=compact&theme=radical)
+
 
 ### 🌱 I’m currently learning
 - Advanced React concepts
