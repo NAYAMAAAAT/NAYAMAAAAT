@@ -1,5 +1,5 @@
 <div align="center">
-  <img height='250' src="https://postimg.cc/Z9vr3g91"  />
+  <img height='250' src="https://i.postimg.cc/SKDD0bmN/Purple-Modern-Minimalist-Business-Development-Presentation-3.png"  />
 </div>
 
 <!-- Welcome Text -->
